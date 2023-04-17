@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to undestrand and learn how the library react works, in this project we make an ecommerce using html5, css, js and react, learning also about the diferents styles of programming and new things about database.
 
 ## Available Scripts
 
